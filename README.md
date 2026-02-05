@@ -9,7 +9,7 @@ This is a small, personal portfolio site built with plain HTML, CSS and JavaScri
   - `src/css/style.css` — styles
   - `src/js/script.js` — theme toggle and small UI behavior
   - `src/assets/images/` — images (move your profile image(s) here)
-- `docs/` — documentation and contribution notes
+- `src/readme.md` — documentation and contribution notes
 
 ## Project goals
 

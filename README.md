@@ -53,24 +53,3 @@ git commit -m "feat(html): update asset paths and add meta description"
 git add README.md docs/
 git commit -m "docs: add README and contribution notes"
 ```
-
-These three commits satisfy the requirement for at least three meaningful commits (restructure, feature updates, documentation).
-
-## If git is not available in your environment
-
-- Install Git: https://git-scm.com/downloads
-- Run the commands above in your local clone to create the commits.
-
-## Deployment tips
-
-- Host on GitHub Pages by setting branch to `main` (or `gh-pages`) and enabling Pages in repository settings.
-- Or deploy using Netlify / Vercel by pointing to the `src` directory as the published directory, or configure your build to copy the `src` contents to root.
-
----
-
-If you'd like, I can also:
-- Add a small `index.html` meta / SEO improvements
-- Create a `docs/CONTRIBUTING.md` with contribution guidelines
-- Produce suggested commit messages if you'd prefer more granular commits
-
-Let me know which of these you'd like next. Thanks! 🎯

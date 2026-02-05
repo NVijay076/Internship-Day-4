@@ -1,0 +1,11 @@
+# Common ignores
+node_modules/
+.DS_Store
+.env
+
+# VS Code
+.vscode/
+
+# Build or dist folders
+dist/
+build/
